@@ -1,4 +1,6 @@
-package com.design.dp.builder;
+package com.design.dp;
+
+import com.design.dp.builder.Computer;
 
 public class BuilderTester {
     public static void main(String[] args) {
